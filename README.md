@@ -15,3 +15,6 @@ xhy-test local
 ceshi hebing
 
 xhy-test-3
+
+
+push红点显示
